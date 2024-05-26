@@ -7,6 +7,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+TaeHee+Kim" alt="Typing SVG" /></a>
 <br>
 
+<a href="https://www.notion.so/021f1fb2639a48cc824bb035a3986153?pvs=4">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=Black"/>
+</a>
+
 <br><br>
 <div align="center">
 <!-- My profile -->
